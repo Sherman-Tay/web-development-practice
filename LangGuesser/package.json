@@ -1,0 +1,16 @@
+{
+  "name": "langguesser",
+  "version": "1.0.0",
+  "description": "To interpret the language input and make a guess to what language it is, using node packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sherman Tay",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
