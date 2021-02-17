@@ -9,7 +9,7 @@ Focused on exploring individual topics of Web Development.
 ### Facilitated With
 * [Javascript](https://javascript.org/)
 * [MongoDB](https://www.mongodb.com/)
-* [NodeJS] (https://nodejs.org/en/)
+* [NodeJS](https://nodejs.org/en/)
 
 
 
